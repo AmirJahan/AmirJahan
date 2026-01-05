@@ -36,7 +36,7 @@ I build **AI-powered creative tools**, interactive systems, and developer platfo
 
 ---
 
-🌐 [https://www.linkedin.com/in/amirjahanlou/](https://www.linkedin.com/in/amirjahanlou/)
-📧 [amir.jahan@gmail.com](mailto:amir.jahan@gmail.com)
+- 🌐 [https://www.linkedin.com/in/amirjahanlou/](https://www.linkedin.com/in/amirjahanlou/)
+- 📧 [amir.jahan@gmail.com](mailto:amir.jahan@gmail.com)
 
 ⭐ *If you’re interested in AI + creativity + games, feel free to explore.*
