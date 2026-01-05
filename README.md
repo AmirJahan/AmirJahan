@@ -25,7 +25,7 @@ I build **AI-powered creative tools**, interactive systems, and developer platfo
 ### 🛠️ Tech I'm Excited About
 
 `2D Graphics` · `Animation` · `ML` · `GenAI` · `Unity` · `XR (AR/VR/MR)` · `3D Graphics` ·
-`iOS` · `Android` · `APIs & SDKs` · `Analytics & Experiments`
+`iOS` · `Android` · `APIs & SDKs` · `Research`
 
 ---
 
