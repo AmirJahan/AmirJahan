@@ -20,15 +20,16 @@ I build **AI-powered creative tools**, interactive systems, and developer platfo
 
 ---
 
-### 🛠️ Tech I Work With
+### 🛠️ Tech I'm Excited About
 
-`LLMs` · `GenAI` · `Unity` · `XR (AR/VR/MR)` · `3D Graphics` ·
-`Web / iOS / Android` · `APIs & SDKs` · `Analytics & Experiments`
+`2D Graphics` · `Animation` · `ML` · `GenAI` · `Unity` · `XR (AR/VR/MR)` · `3D Graphics` ·
+`iOS` · `Android` · `APIs & SDKs` · `Analytics & Experiments`
 
 ---
 
-### 📦 On This GitHub
+### 📦 Currently Working on
 
+* 2D computer animation on the Web
 * AI & generative prototypes
 * Game & Unity experiments
 * Creative tooling & research projects
