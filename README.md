@@ -9,7 +9,7 @@ I build **AI-powered creative tools**, interactive systems, and developer platfo
 * 🚀 0 → 1 **AI product launches**
 * 🤖 **GenAI, LLMs, agents, creative workflows**
 * 🎮 **Games, Unity, XR, real-time systems**
-* 📊 **Product strategy, telemetry, A/B testing**
+* 📊 **Product prototyping, strategy, telemetry, A/B testing**
 * 🧠 **PhD in Interactive Technology (HCI + AI)**
 
 ---
