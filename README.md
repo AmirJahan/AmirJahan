@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Amir
 **Staff Product Manager | AI × Creativity Tools**
 
-I build **AI-powered**, interactive systems, & developer platforms for **Generative-AI, video, 3Dx graphics, games and HCI**.
+I build **AI-powered**, interactive systems, & developer platforms for **Generative-AI, video, 3D graphics, games and HCI**.
 
 ![Profile Splash Screen](https://raw.githubusercontent.com/AmirJahan/AmirJahan/main/assets/profile.png)
 
@@ -19,7 +19,7 @@ I build **AI-powered**, interactive systems, & developer platforms for **Generat
 * Teaching **AI for Games** & app development
 * Building human-centered **GenAI for creativity**
 
-`2D/3D Graphics` · `Animation` · `ML` · `GenAI` · `Unity` · `XR (AR/VR/MR)` · `iOS` · `Android` · `APIs & SDKs`
+`2D/3D Graphics` · `Video` · `Animation` · `ML` · `GenAI` · `Unity + XR` · `iOS` · `Android` · `APIs & SDKs`
 
 ---
 
