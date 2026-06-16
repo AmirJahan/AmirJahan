@@ -4,7 +4,7 @@
 
 I build **AI-powered creative tools**, interactive systems, and developer platforms at the intersection of **Generative AI, games, graphics, and HCI**.
 
-![Profile Splash Screen](https://github.com/AmirJahan/AmirJahan/blob/main/profile.png)
+![Profile Splash Screen](https://github.com/AmirJahan/AmirJahan/blob/main/assets/profile.png)
 
 * 🚀 0 → 1 **AI product launches**
 * 🤖 **GenAI, LLMs, agents, creative workflows**
